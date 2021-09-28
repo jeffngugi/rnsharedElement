@@ -1,14 +1,14 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 
-const DetailScreen = () => {
+const Button = () => {
     return (
         <View>
-            <Text>Post detail</Text>
+            <Text>Button</Text>
         </View>
     )
 }
 
-export default DetailScreen
+export default Button
 
 const styles = StyleSheet.create({})

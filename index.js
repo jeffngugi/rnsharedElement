@@ -11,8 +11,18 @@ import 'react-native-gesture-handler';
  * Comment on the other imports that you don't want to run
  */
 
-// import App from './src/Video1/App'
-import App from './src/Simple/App'
+// import App from './src/App1/App'
+import App from './src/App2/App'
+// import App from './src/App3/App'
+
+
+
+
+
+
+
+
+
 import {name as appName} from './app.json';
 
 AppRegistry.registerComponent(appName, () => App);
